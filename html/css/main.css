@@ -1,13 +1,12 @@
 * {font-family: 'Helvetica', monospace;
 }
-head {
+
+  
+body {
   background-color: red;
   background: linear-gradient (black, red);
   background: webkit-linear-gradient (black, red);
   background: moz-linear-gradient (black, red);
-}
-  
-body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;}
