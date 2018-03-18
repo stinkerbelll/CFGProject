@@ -3,7 +3,7 @@
 head {
   background-color: red;
   background: linear-gradient (black, red);
-    background: webkit-linear-gradient (black, red);
+  background: webkit-linear-gradient (black, red);
   background: moz-linear-gradient (black, red);
 }
   
